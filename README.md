@@ -1,9 +1,3 @@
-<p align="center">
-	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Welcome+to+my+profile~;%E6%AC%A2%E8%BF%8E%E5%93%87%EF%BD%9E" alt="Typing SVG" />
-	</a>
-</p>
-
 <h2 align="center">Hi 👋, I'm Shiyin Lin</h2>
 <h4 align="center">Student, Security Enthusiast</h4>
 
@@ -81,12 +75,11 @@
 ### GitHub Stats
 
 <div align="center">
-	<span>  </span>
-	<img height="170px" src="https://github-readme-stats.vercel.app/api?username=ACce1er4t0r&count_private=true&show_icons=true&hide=prs,contribs&theme=tokyonight&include_all_commits=true" />
-	<span>  </span>
-	<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACce1er4t0r&count_private=true&hide=VHDL,jupyter%20notebook,css,html,JavaScript&theme=tokyonight&layout=compact&langs_count=6" />
-	<span>  </span>
+    <span>&emsp;&emsp;</span>
+	<img height="160px" src="https://github-readme-stats.vercel.app/api?username=ACce1er4t0r&count_private=true&show_icons=true&hide=prs,contribs&theme=tokyonight&include_all_commits=true" /><span>&emsp;&emsp;</span><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACce1er4t0r&count_private=true&hide=VHDL,jupyter%20notebook,css,html,JavaScript&theme=tokyonight&layout=compact&langs_count=6" />
+    <span>&emsp;&emsp;</span>
 </div>
+
 ### Recent Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->  
