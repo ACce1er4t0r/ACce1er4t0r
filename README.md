@@ -76,7 +76,7 @@
 
 <div align="center">
     <span>&emsp;&emsp;</span>
-	<img height="160px" src="https://github-readme-stats.vercel.app/api?username=ACce1er4t0r&count_private=true&show_icons=true&hide=prs,contribs&theme=tokyonight&include_all_commits=true" /><span>&emsp;&emsp;</span><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACce1er4t0r&count_private=true&hide=VHDL,jupyter%20notebook,css,html,JavaScript&theme=tokyonight&layout=compact&langs_count=6" />
+	<img width="55%" src="https://github-readme-stats.vercel.app/api?username=ACce1er4t0r&count_private=true&show_icons=true&hide=prs,contribs&theme=tokyonight&include_all_commits=true" /><span>&emsp;&emsp;</span><img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACce1er4t0r&count_private=true&hide=VHDL,jupyter%20notebook,css,html,JavaScript&theme=tokyonight&layout=compact&langs_count=6" />
     <span>&emsp;&emsp;</span>
 </div>
 
