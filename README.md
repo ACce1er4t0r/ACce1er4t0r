@@ -82,8 +82,12 @@
 
 ### Recent Blog Posts  
 
-<!-- BLOG-POST-LIST:START -->  
-TODO: This part is still a work in progress
+<!-- BLOG-POST-LIST:START -->
+- [Automated deploying Hexo blogs by Github Actions](http://aslin.site/2022/12/18/Automated-deploying-Hexo-blogs-with-Github-Actions/)
+- [PWN Learning: CSAW 2017 Quals - pilot](http://aslin.site/2022/03/17/PWN-Learning-CSAW-2017-Quals-pilot/)
+- [Programming Linux Character Driver](http://aslin.site/2022/03/17/Programming-Linux-Character-Driver/)
+- [Programming Linux Modules](http://aslin.site/2022/03/09/Programming-Linux-Modules/)
+- [backup: PAT](http://aslin.site/2022/03/09/backup-PAT/)
 <!-- BLOG-POST-LIST:END -->  
 
 ### Education
