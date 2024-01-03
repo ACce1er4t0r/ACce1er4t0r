@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently on a journey in security field
 - 🌱 I’m currently to learn everything.
-- 🤝 I’m looking for help with finding **Security Engineer** roles
+- 📍 I'm working as a **Security Researcher** at Fortinet.
 - 💭 My dream is to become an expert in the field of security
 - ⚡ Fun fact: I use tabs over spaces
 
@@ -92,7 +92,7 @@
 
 ### Education
 
-M.S. in Computer Science, **University of Florida**, except graduate at May. 2023 
+M.S. in Computer Science, **University of Florida**, Aug.2021 - May. 2023 
 
 - **Graduate Certificate:**
 
