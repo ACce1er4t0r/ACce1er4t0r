@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Shiyin Lin</h2>
-<h4 align="center">Student, Security Enthusiast</h4>
+<h4 align="center">Security Enthusiast</h4>
 
 ### About me
 
